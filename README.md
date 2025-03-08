@@ -1,6 +1,5 @@
 # KidGuides - Bringing the best tutors home
 
-![KidGuides Banner](https://via.placeholder.com/800x200/6c63ff/ffffff?text=KidGuides)
 
 ## Project Overview
 
